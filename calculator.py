@@ -1,0 +1,7 @@
+num1=int(input("Geben Sie die erste Zahl ein  "))
+num2=int(input("Geben Sie die zweite Zahl ein  "))
+print("\n======RESULTS===========")
+print("sum= ",num1+num2)
+print("difference= ", num1-num2)
+print("product = ",num1*num2)
+print("division= ", num1/num2)
